@@ -67,13 +67,5 @@ func main() {
 				}
 			}
 		}
-
-		if buffer[0] == 'g' {
-			if buffer[1] == 'b' {
-				if buffer[2] == 'u' {
-					panic("This is a bug 6")
-				}
-			}
-		}
 	}
 }
