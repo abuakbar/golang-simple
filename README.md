@@ -1,1 +1,1 @@
-# golang-simple original repo
+This repository contains small and simple go program with vulnerabilities for testing purposes
